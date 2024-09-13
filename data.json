@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "price": 29.99
+    },
+    {
+      "id": "2",
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "price": 24.99
+    },
+    {
+      "id": "3",
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "price": 22.99
+    },
+    {
+      "id": "4",
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "price": 27.99
+    },
+    {
+      "id": "5",
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "price": 19.99
+    },
+    {
+      "id": "6",
+      "title": "Discovery",
+      "artist": "Daft Punk",
+      "price": 23.99
+    },
+    {
+      "id": "7",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "price": 21.99
+    },
+    {
+      "id": "8",
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "price": 18.99
+    },
+    {
+      "id": "9",
+      "title": "Born to Run",
+      "artist": "Bruce Springsteen",
+      "price": 25.99
+    },
+    {
+      "id": "10",
+      "title": "The Eminem Show",
+      "artist": "Eminem",
+      "price": 20.99
+    }
+  ]
+  
