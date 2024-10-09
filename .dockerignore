@@ -1,0 +1,9 @@
+# Binaries
+recordapi
+
+# Build directories
+bin/
+obj/
+
+# Git
+.git

@@ -30,7 +30,7 @@ func main() {
 	router.GET("/albums/:id", getAlbumsByID) // /albums/{id} - lists album(s) with a certain ID
 	router.POST("/albums", postAlbums)
 
-	router.Run("localhost:8080")
+	router.Run("0.0.0.0:8080")
 }
 
 func loadAlbumsFromJSON(filename string) error {
